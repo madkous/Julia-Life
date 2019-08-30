@@ -8,6 +8,7 @@ output.
 - h,j,k,l move the view screen
 - \<SPACE\> kills or reanimates a pixel
 - p (un)pauses the simulation
+- q quits
 
 ## Issues
 
