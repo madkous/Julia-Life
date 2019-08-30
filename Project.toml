@@ -1,0 +1,4 @@
+name = "Life"
+uuid = "17275858-99be-11e9-1fe2-3f6042e0f52a"
+authors = ["Matthew Kousoulas <shaman.kous@gmail.com>"]
+version = "0.1.0"
